@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=RealCopy
+GenericName=File Copy
+Comment=Copy files to USB drives and finish only when the data is really written
+Exec=realcopy-gui %F
+Icon=realcopy
+Terminal=false
+Categories=Utility;FileTools;GTK;
+Keywords=copy;usb;flash;drive;sync;
+StartupNotify=true

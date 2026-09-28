@@ -1,0 +1,7 @@
+/build/
+/realcopy
+/realcopy-gui
+/compile_flags.txt
+/compile_commands.json
+# AUR packaging lives in its own repository
+/aur/

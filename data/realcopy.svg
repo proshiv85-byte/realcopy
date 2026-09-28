@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- USB stick body -->
+  <rect x="34" y="40" width="60" height="76" rx="10" fill="#3584e4"/>
+  <rect x="34" y="40" width="60" height="76" rx="10" fill="none" stroke="#1c71d8" stroke-width="4"/>
+  <!-- connector -->
+  <rect x="46" y="12" width="36" height="32" rx="3" fill="#c0bfbc" stroke="#9a9996" stroke-width="3"/>
+  <rect x="54" y="20" width="7" height="7" fill="#5e5c64"/>
+  <rect x="67" y="20" width="7" height="7" fill="#5e5c64"/>
+  <!-- check mark: data really written -->
+  <path d="M48 80 l12 12 l22 -24" fill="none" stroke="#ffffff" stroke-width="9"
+        stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
